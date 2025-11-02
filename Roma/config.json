@@ -1,6 +1,10 @@
-{"settlement_type": "hamlet",
+{"settlement_type": "metropolis",
 "races": ["dwarf", "elf", "half-elf", "human", "dragonborn", "halfling"],
-"professions": ["butcher", "baker", "candlestick-maker"],
-"classes": ["fighter", "wizard", "cleric"]
+"professions": ["butcher", "baker", "candlestick-maker", "tanner", "tailor", "guard", "sailor", "soldier", "trader", "farmer", "blacksmith", "jeweller", "herbalist", "innkeeper", "shepherd", "fisherman", "beggar", "bureaucrat", "official"],
+"classes": ["artificer", "barbarian", "bard", "cleric", "commoner", "druid", "fighter", "monk", "paladin", "ranger", "rogue", "sorceror", "warlock", "wizard"],
+"backgrounds": ["acolyte", "athlete", "charlatan", "criminal", "entertainer", "folk hero", "guild artisan", "hermit", "noble", "outlander", "sage", "soldier", "urchin"],
+"level_range": [1, 20],
+"level_distribution": 100,
+"genders": ["male", "female"]
 }
 
