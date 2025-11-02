@@ -1,0 +1,6 @@
+{"settlement_type": "hamlet",
+"races": ["dwarf", "elf", "half-elf", "human", "dragonborn", "halfling"],
+"professions": ["butcher", "baker", "candlestick-maker"],
+"classes": ["fighter", "wizard", "cleric"]
+}
+
